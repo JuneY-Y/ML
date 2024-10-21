@@ -46,6 +46,7 @@ During their participation in the HBN study, some participants were given an acc
   - **relative_date_PCIAT** - The number of days (integer) since the PCIAT test was administered (negative days indicate that the actigraphy data has been collected before the test was administered).
 
 - **sample_submission.csv** - A sample submission file in the correct format. See the Evaluation page for more details.
-[Uploading data_dictionary.csv…]()
+QuickSHoot:
+<img width="841" alt="image" src="https://github.com/user-attachments/assets/a2101f51-d084-4495-8c18-6f6819d33029">
 
 
