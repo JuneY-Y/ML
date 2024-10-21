@@ -6,4 +6,4 @@ The Healthy Brain Network (HBN) dataset is a clinical sample of about three thou
 
 The data is compiled into two sources, **parquet** files containing the accelerometer (actigraphy) series and **csv** files containing the remaining tabular data. The majority of measures are missing for most participants. In particular, the target **sii** is missing for a portion of the participants in the training set. 
 
-**Note** So, the first step may wash to apply non-supervised learning techniques to this data. The **sii** value is present for all instances in the test set.
+**Note:** So, the first step I may wish to apply non-supervised learning techniques to this data. The **sii** value is present for all instances in the test set.
